@@ -10,8 +10,8 @@ NEZHA_PORT="$NEZHA_PORT"
 NEZHA_KEY="$NEZHA_KEY"
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
-ARGO_AUTH="$ARGO_AUTH"
-ARGO_DOMAIN="$ARGO_DOMAIN"
+# ARGO_AUTH="$ARGO_AUTH"
+# ARGO_DOMAIN="$ARGO_DOMAIN"
 
 # 安装系统依赖
 check_dependencies() {
